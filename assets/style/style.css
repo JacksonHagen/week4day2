@@ -1,0 +1,18 @@
+/* BASIC STYLES HERE */
+
+.color-box {
+  height: 10px;
+  width: 10px;
+  border-radius: 2px;
+  filter: drop-shadow(1px 1px 1px black);
+}
+
+
+.fab {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  border: 50%;
+  display: grid;
+  place-content: center;
+}
